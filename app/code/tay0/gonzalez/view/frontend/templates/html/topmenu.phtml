@@ -1,0 +1,15 @@
+<?php
+$activeClass = '';
+//if (null !== $product->getCustomAttribute('is_special')) {
+//    if ($product->getCustomAttribute('is_special')->getValue() == 'yes'){
+//        $name = $product->getname();
+//        var_dump($name);
+////                echo  $subject->getCustomAttribute('is_special')->getValue();
+//    }
+//}
+?>
+<li class="level0 <?= $activeClass; ?> last level-top ui-menu-item">
+    <a class="level-top ui-corner-all" href="<?= $block->getUrl('Special-product'); ?>">
+        <?= __('Special product'); ?>
+    </a>
+</li>
