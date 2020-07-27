@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+    <css src="css/bootstrap.css"/>
+    <css src="css/bootstrap-theme.css"/>
+    <script src="js/bootstrap.js" />
+    <script src="js/npm.js" />
+</head>
+</page>
